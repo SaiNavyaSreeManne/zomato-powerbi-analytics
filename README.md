@@ -1,8 +1,6 @@
 # Zomato Global Restaurant Analytics | Power BI
 
-🔗 Live Dashboard: [View Power BI Report](https://app.fabric.microsoft.com/view?r=eyJrIjoiZDhlMGRmZDQtNmY0Ny00YTkyLWFiM
-jQtM2FhZTg4MWQ0NDVlIiwidCI6ImIxMjQxMmRkLWEwY2YtNGIxYS1hMDE3LTQw
-ZGYyMzQ0NmNmYiJ9)
+🔗 Live Dashboard: [View Power BI Report](https://app.fabric.microsoft.com/view?r=eyJrIjoiZDhlMGRmZDQtNmY0Ny00YTkyLWFiMjQtM2FhZTg4MWQ0NDVlIiwidCI6ImIxMjQxMmRkLWEwY2YtNGIxYS1hMDE3LTQwZGYyMzQ0NmNmYiJ9)
 
 
 ## 📊 Project Overview
