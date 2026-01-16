@@ -1,5 +1,10 @@
 # Zomato Global Restaurant Analytics | Power BI
 
+🔗 Live Dashboard: [View Power BI Report](https://app.fabric.microsoft.com/view?r=eyJrIjoiZDhlMGRmZDQtNmY0Ny00YTkyLWFiM
+jQtM2FhZTg4MWQ0NDVlIiwidCI6ImIxMjQxMmRkLWEwY2YtNGIxYS1hMDE3LTQw
+ZGYyMzQ0NmNmYiJ9)
+
+
 ## 📊 Project Overview
 This project analyzes global restaurant data from Zomato to uncover insights into restaurant performance, pricing, customer ratings, and cuisine diversity across continents, countries, and cities.
 
