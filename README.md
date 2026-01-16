@@ -94,3 +94,9 @@ The objective was to convert fragmented Excel data into a single, interactive Po
 ## 📷 Dashboard Preview
 See `/dashboards/web_view` and `/dashboards/mobile_view` for screenshots.
 
+---
+
+## 📌 Business Impact
+- Enabled leadership to compare restaurant performance across 15+ countries
+- Reduced manual reporting effort through automated dashboards
+- Improved decision-making using interactive filters and drill-downs
